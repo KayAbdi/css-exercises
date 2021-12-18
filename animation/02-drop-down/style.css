@@ -21,6 +21,13 @@ button {
   padding: 16px;
   font-size: 16px;
   border: none;
+  
+}
+button:hover {
+  cursor: pointer;
+  box-shadow: 5px 3px 3px black;
+  background-color: blue;
+
 }
 
 ul {
@@ -30,8 +37,24 @@ ul {
   width: 160px;
   list-style: none;
   text-align: center;
+  visibility: hidden;
+  max-height: 0;
+  transition: visibility 0.25s ease-out;
+}
+
+.dropdown-menu:hover ul {
+  visibility: visible;
+  max-height: 500px;
+  transition: max-height 0.5s ease-out;
+  box-shadow: 5px 3px 3px black;
 }
 
 li {
   padding: 16px;
 }
+
+ul li:hover {
+  cursor: pointer;
+  background-color: azure;
+}
+
