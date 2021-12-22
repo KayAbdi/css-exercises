@@ -1,0 +1,35 @@
+ #bodd {
+     padding: 15px;
+     border: 5px solid black;
+     border-style: none dashed dashed none;
+     background-color: #adb5bd;
+     outline: 5px dashed;
+     outline-offset:-11px;
+     /* background:white;
+     padding:15px;
+     border:5px dashed #000;
+     outline:5px dashed #000;
+     outline-offset:-5px; */
+ }
+
+ .one-five,
+ .three {
+     background-color: orange;
+     color: black;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 20px;
+ }
+
+ #two {
+     font-size: 3em;
+ }
+
+ .three {
+     font-size: 2em;
+ }
+
+ #four {
+     background-color: greenyellow;
+     font-size: 1.5em;
+     font-weight: bold;
+ }
