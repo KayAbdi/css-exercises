@@ -4,7 +4,7 @@ The goal of this exercise is to recreate a section that is found on many informa
 
 For this one you will need to edit the HTML a little bit too. We can't be making things _too_ easy for you. You'll want to add containers around the various elements so that you can flex them. Good luck!
 
-## Desired outcome
+## Desired outcome 
 
 ![desired outcome](./desired-outcome.png)
 
@@ -16,4 +16,4 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 - There is 52px between each item.
 - The items are arranged horizontally on the page.
 - The items are only 200px wide and the text wraps.
-- The item text is centered.
+- The item text is centered. 

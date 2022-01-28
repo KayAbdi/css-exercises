@@ -4,7 +4,7 @@ This one is another very common pattern on the web. The solution to this one is 
 ### a hint
 Depending on how you approach this one, you might need to revisit the `flex-shrink` property to keep a flex item from getting smashed.
 
-## Desired outcome
+## Desired outcome 
 
 ![desired outcome](./desired-outcome.png)
 
